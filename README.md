@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Authors
 AL-Mukhtar Jamilat Ladidi - [Github](https://github.com/didimukhtar) / [Twitter](https://twitter.com/didimukhtar)  
-Emmanuel Chukwu - [Github](https://github.com/officialecho95@outlook) /
+Emmanuel Chukwu - [Github](https://github.com/officialecho95)
 
 Second part of Airbnb: Joann Vuong
 ## License
